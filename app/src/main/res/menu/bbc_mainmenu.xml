@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <item-->
+<!--        android:id="@+id/searchmenu"-->
+<!--        android:icon="@drawable/searchicon"-->
+<!--        android:title="SearchMenu"-->
+<!--        app:showAsAction="always"-->
+<!--        app:actionViewClass="android.widget.SearchView"/>-->
+
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/questionmark"
+        android:title="help"
+        app:showAsAction="always"
+        android:layout_width="30dp"
+        android:layout_height="30dp"/>
+
+    <item
+        android:id="@+id/saved"
+        android:title="@+id/saved"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        app:showAsAction="always"
+        android:layout_alignParentRight="true"
+        android:icon="@drawable/favourites" />
+
+</menu>

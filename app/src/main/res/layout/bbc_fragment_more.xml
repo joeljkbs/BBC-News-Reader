@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/more"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BBC_MoreFragment">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/something"
+            android:textStyle="bold"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:id="@+id/something1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/heading"
+            android:layout_marginTop="20dp"
+            android:text="@string/something1"
+            android:textAlignment="center"
+            android:textStyle="italic|normal" />
+
+        <TextView
+            android:id="@+id/something2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/something1"
+            android:layout_marginTop="19dp"
+            android:text="@string/something2"
+            android:textAlignment="center"
+            android:textStyle="italic" />
+
+    </RelativeLayout>
+
+</FrameLayout>

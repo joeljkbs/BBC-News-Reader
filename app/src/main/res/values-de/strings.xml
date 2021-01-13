@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Abschlussprojekt</string>
+    <string name="savearticle">Artikel speichern</string>
+    <string name="deleteButton">Artikel löschen</string>
+    <string name="instructions">Hilfe</string>
+    <string name="heading">BBC Nachrichtenleser</string>
+    <string name="message">Artikel gespeichert</string>
+    <string name="something"> Die BBC ist der weltweit führende öffentlich-rechtliche Sender</string>
+    <string name ="something1"> Die BBC wurde von einer Royal Charter gegründet und wird hauptsächlich durch die Lizenzgebühr finanziert, die von britischen Haushalten gezahlt wird. Unsere Aufgabe ist es, unsere Mission zu erfüllen und unsere öffentlichen Zwecke zu fördern. </string>
+    <string name ="something2"> Der BBC-Vorstand stellt sicher, dass wir unsere Mission und öffentlichen Zwecke erfüllen, die in der Charta festgelegt sind. Das Executive Committee ist für das laufende Management verantwortlich. Wir werden von Ofcom reguliert. </string>
+    <string name="inst">Klicken Sie auf den Artikel, um die vollständige Beschreibung anzuzeigen.</string>
+    <string name="inst1"> Klicken Sie auf die Schaltfläche "Artikel speichern", um sie zu den Favoriten hinzuzufügen.</string>
+    <string name="inst2"> Klicken Sie im Menü auf das Sternsymbol, um Ihre Favoritenliste anzuzeigen.</string>
+    <string name="inst3"> Klicken Sie im Menü auf "Über uns", um mehr über uns zu erfahren.</string>
+    <string name="inst4">Klicken Sie lange auf die Artikel im Favoritenbereich, um sie aus den Favoriten zu entfernen.</string>
+    <string name="inst5">Klicken Sie einmal auf die Artikel im Favoritenbereich, um sie im Browser zu öffnen.</string>
+    <string name="write">Ihr Feedback ist wertvoll, bitte helfen Sie uns, uns zu verbessern!</string>
+    <string name="favourites">Favouriten</string>
+    <string name="ArticlesSaved">Articles Saved:</string>
+    <string name="Send">Senden</string>
+
+
+
+
+</resources>

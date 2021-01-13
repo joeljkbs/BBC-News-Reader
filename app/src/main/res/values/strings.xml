@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="savearticle">Save Article</string>
+    <string name="deleteButton">Delete Article</string>
+    <string name="instructions">Help</string>
+    <string name="heading">BBC NEWS READER</string>
+    <string name="message">Article Saved</string>
+    <string name="something">The BBC is the world’s leading public service broadcaster</string>
+    <string name="something1">Established by a Royal Charter, the BBC is principally funded through the licence fee paid by UK households. Our role is to fulfil our mission and promote our Public Purposes.</string>
+    <string name="something2">The BBC’s Board ensures that we deliver our mission and public purposes which are set out in the Charter. The Executive Committee is responsible for day-to-day management. We are regulated by Ofcom.</string>
+    <string name="inst">To see the full description, click the article.</string>
+    <string name="inst1">Click the \'Save Article\' button to add to favourites.</string>
+    <string name="inst2">Click the \'Star Icon\' on the menu to view your favourites list.</string>
+    <string name="inst3">Click  the \'About Us\' on the menu to learn more about us.</string>
+    <string name="inst4">Long click on the articles in favourites section to remove them from favourites.</string>
+    <string name="inst5">Single click on the articles in the favourites section to open it in the browser.</string>
+    <string name="write">Your feedback is valuable, please help us improve!</string>
+    <string name="favourites">Favourites</string>
+    <string name="ArticlesSaved">Articles Saved:</string>
+    <string name="Send">Send</string>
+
+</resources>
